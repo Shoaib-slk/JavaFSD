@@ -1,0 +1,15 @@
+com\stackroute\datamunger\reader\QueryProcessingEngine.class
+com\stackroute\datamunger\query\Filter.class
+com\stackroute\datamunger\query\parser\AggregateFunction.class
+com\stackroute\datamunger\test\DataMungerTest.class
+com\stackroute\datamunger\query\parser\Restriction.class
+com\stackroute\datamunger\query\Query.class
+com\stackroute\datamunger\query\parser\QueryParser.class
+com\stackroute\datamunger\query\Row.class
+com\stackroute\datamunger\query\DataTypeDefinitions.class
+com\stackroute\datamunger\writer\JsonWriter.class
+com\stackroute\datamunger\query\parser\QueryParameter.class
+com\stackroute\datamunger\reader\CsvQueryProcessor.class
+com\stackroute\datamunger\query\Header.class
+com\stackroute\datamunger\query\DataSet.class
+com\stackroute\datamunger\query\RowDataTypeDefinitions.class

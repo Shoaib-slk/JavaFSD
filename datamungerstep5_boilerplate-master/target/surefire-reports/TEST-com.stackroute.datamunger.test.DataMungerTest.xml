@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://maven.apache.org/surefire/maven-surefire-plugin/xsd/surefire-test-report.xsd" name="com.stackroute.datamunger.test.DataMungerTest" time="10.073" tests="24" errors="0" skipped="0" failures="0">
+  <properties>
+    <property name="java.specification.version" value="18"/>
+    <property name="sun.cpu.isalist" value="amd64"/>
+    <property name="sun.jnu.encoding" value="Cp1252"/>
+    <property name="java.class.path" value="c:\Users\shoai\Dev\Code\Java FSD Training\Projects\datamungerstep5_boilerplate-master\target\test-classes;c:\Users\shoai\Dev\Code\Java FSD Training\Projects\datamungerstep5_boilerplate-master\target\classes;C:\Users\shoai\.m2\repository\junit\junit\4.12\junit-4.12.jar;C:\Users\shoai\.m2\repository\org\hamcrest\hamcrest-core\1.3\hamcrest-core-1.3.jar;C:\Users\shoai\.m2\repository\com\google\code\gson\gson\2.8.0\gson-2.8.0.jar;"/>
+    <property name="java.vm.vendor" value="Oracle Corporation"/>
+    <property name="sun.arch.data.model" value="64"/>
+    <property name="user.variant" value=""/>
+    <property name="java.vendor.url" value="https://java.oracle.com/"/>
+    <property name="user.timezone" value="Asia/Calcutta"/>
+    <property name="os.name" value="Windows 11"/>
+    <property name="java.vm.specification.version" value="18"/>
+    <property name="sun.java.launcher" value="SUN_STANDARD"/>
+    <property name="user.country" value="IN"/>
+    <property name="sun.boot.library.path" value="C:\Program Files\Java\jdk-18.0.2.1\bin"/>
+    <property name="sun.java.command" value="C:\Users\shoai\AppData\Local\Temp\surefire147090614548781706\surefirebooter10879719597559631654.jar C:\Users\shoai\AppData\Local\Temp\surefire147090614548781706 2022-10-01T10-28-37_001-jvmRun1 surefire18386730751665094843tmp surefire_018237458746789581848tmp"/>
+    <property name="jdk.debug" value="release"/>
+    <property name="surefire.test.class.path" value="c:\Users\shoai\Dev\Code\Java FSD Training\Projects\datamungerstep5_boilerplate-master\target\test-classes;c:\Users\shoai\Dev\Code\Java FSD Training\Projects\datamungerstep5_boilerplate-master\target\classes;C:\Users\shoai\.m2\repository\junit\junit\4.12\junit-4.12.jar;C:\Users\shoai\.m2\repository\org\hamcrest\hamcrest-core\1.3\hamcrest-core-1.3.jar;C:\Users\shoai\.m2\repository\com\google\code\gson\gson\2.8.0\gson-2.8.0.jar;"/>
+    <property name="sun.cpu.endian" value="little"/>
+    <property name="user.home" value="C:\Users\shoai"/>
+    <property name="user.language" value="en"/>
+    <property name="java.specification.vendor" value="Oracle Corporation"/>
+    <property name="java.version.date" value="2022-08-18"/>
+    <property name="java.home" value="C:\Program Files\Java\jdk-18.0.2.1"/>
+    <property name="file.separator" value="\"/>
+    <property name="basedir" value="c:\Users\shoai\Dev\Code\Java FSD Training\Projects\datamungerstep5_boilerplate-master"/>
+    <property name="java.vm.compressedOopsMode" value="32-bit"/>
+    <property name="line.separator" value="&#10;"/>
+    <property name="java.vm.specification.vendor" value="Oracle Corporation"/>
+    <property name="java.specification.name" value="Java Platform API Specification"/>
+    <property name="surefire.real.class.path" value="C:\Users\shoai\AppData\Local\Temp\surefire147090614548781706\surefirebooter10879719597559631654.jar"/>
+    <property name="user.script" value=""/>
+    <property name="sun.management.compiler" value="HotSpot 64-Bit Tiered Compilers"/>
+    <property name="java.runtime.version" value="18.0.2.1+1-1"/>
+    <property name="user.name" value="shoai"/>
+    <property name="path.separator" value=";"/>
+    <property name="os.version" value="10.0"/>
+    <property name="java.runtime.name" value="Java(TM) SE Runtime Environment"/>
+    <property name="file.encoding" value="UTF-8"/>
+    <property name="java.vm.name" value="Java HotSpot(TM) 64-Bit Server VM"/>
+    <property name="localRepository" value="C:\Users\shoai\.m2\repository"/>
+    <property name="java.vendor.url.bug" value="https://bugreport.java.com/bugreport/"/>
+    <property name="java.io.tmpdir" value="C:\Users\shoai\AppData\Local\Temp\"/>
+    <property name="java.version" value="18.0.2.1"/>
+    <property name="user.dir" value="c:\Users\shoai\Dev\Code\Java FSD Training\Projects\datamungerstep5_boilerplate-master"/>
+    <property name="os.arch" value="amd64"/>
+    <property name="java.vm.specification.name" value="Java Virtual Machine Specification"/>
+    <property name="sun.os.patch.level" value=""/>
+    <property name="native.encoding" value="Cp1252"/>
+    <property name="java.library.path" value="C:\Program Files\Java\jdk-18.0.2.1\bin;C:\WINDOWS\Sun\Java\bin;C:\WINDOWS\system32;C:\WINDOWS;C:\Program Files\Common Files\Oracle\Java\javapath;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Program Files\nodejs\;C:\Users\shoai\AppData\Local\Microsoft\WindowsApps;;C:\Users\shoai\AppData\Local\Programs\Microsoft VS Code\bin;C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2022.2.1\bin;;C:\Users\shoai\AppData\Roaming\npm;."/>
+    <property name="java.vm.info" value="mixed mode, sharing"/>
+    <property name="java.vendor" value="Oracle Corporation"/>
+    <property name="java.vm.version" value="18.0.2.1+1-1"/>
+    <property name="sun.io.unicode.encoding" value="UnicodeLittle"/>
+    <property name="java.class.version" value="62.0"/>
+  </properties>
+  <testcase name="testGetFields" classname="com.stackroute.datamunger.test.DataMungerTest" time="0.339"/>
+  <testcase name="testGetFieldsAndRestrictions" classname="com.stackroute.datamunger.test.DataMungerTest" time="0.016"/>
+  <testcase name="testGetFieldsAndRestrictionsFailure" classname="com.stackroute.datamunger.test.DataMungerTest" time="0.018"/>
+  <testcase name="testGetFieldsFailure" classname="com.stackroute.datamunger.test.DataMungerTest" time="0.017"/>
+  <testcase name="testGetFileName" classname="com.stackroute.datamunger.test.DataMungerTest" time="0.054"/>
+  <testcase name="testGetFileNameFailure" classname="com.stackroute.datamunger.test.DataMungerTest" time="0.016"/>
+  <testcase name="testGetGroupByClause" classname="com.stackroute.datamunger.test.DataMungerTest" time="0.016"/>
+  <testcase name="testGetGroupByOrderByClause" classname="com.stackroute.datamunger.test.DataMungerTest" time="0.033"/>
+  <testcase name="testGetGroupByOrderByClauseFailure" classname="com.stackroute.datamunger.test.DataMungerTest" time="0.068"/>
+  <testcase name="testGetOrderByAndWhereConditionClause" classname="com.stackroute.datamunger.test.DataMungerTest" time="0.02"/>
+  <testcase name="testGetOrderByAndWhereConditionClauseFailure" classname="com.stackroute.datamunger.test.DataMungerTest" time="0.027"/>
+  <testcase name="testGetOrderByClause" classname="com.stackroute.datamunger.test.DataMungerTest" time="0.02"/>
+  <testcase name="testGetOrderByWithoutWhereClause" classname="com.stackroute.datamunger.test.DataMungerTest" time="0.014"/>
+  <testcase name="testGetRestrictionsAndAggregateFunctions" classname="com.stackroute.datamunger.test.DataMungerTest" time="0.03"/>
+  <testcase name="testSelectAllWithoutWhereClause" classname="com.stackroute.datamunger.test.DataMungerTest" time="3.621"/>
+  <testcase name="testSelectColumnsWithoutWhereClause" classname="com.stackroute.datamunger.test.DataMungerTest" time="1.08"/>
+  <testcase name="testWithWhereEqualAndNotEqualClause" classname="com.stackroute.datamunger.test.DataMungerTest" time="0.386"/>
+  <testcase name="testWithWhereGreaterThanClause" classname="com.stackroute.datamunger.test.DataMungerTest" time="0.111"/>
+  <testcase name="testWithWhereGreaterThanOrEqualToClause" classname="com.stackroute.datamunger.test.DataMungerTest" time="0.257"/>
+  <testcase name="testWithWhereLessThanClause" classname="com.stackroute.datamunger.test.DataMungerTest" time="0.758"/>
+  <testcase name="testWithWhereLessThanOrEqualToClause" classname="com.stackroute.datamunger.test.DataMungerTest" time="1.143"/>
+  <testcase name="testWithWhereNotEqualToClause" classname="com.stackroute.datamunger.test.DataMungerTest" time="0.603"/>
+  <testcase name="testWithWhereThreeConditionsEqualOrNotEqualClause" classname="com.stackroute.datamunger.test.DataMungerTest" time="1.052"/>
+  <testcase name="testWithWhereTwoConditionsEqualOrNotEqualClause" classname="com.stackroute.datamunger.test.DataMungerTest" time="0.282"/>
+</testsuite>
