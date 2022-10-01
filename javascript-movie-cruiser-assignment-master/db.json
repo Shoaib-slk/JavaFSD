@@ -1,0 +1,36 @@
+{
+  "movies": [
+    {
+      "id": 1,
+      "title": "K.G.F",
+      "posterPath": "https://m.media-amazon.com/images/M/MV5BMjMwMDgyOGQtMWZjNC00MDUwLTllZDYtZWM3NDBmN2YzNGZmXkEyXkFqcGdeQXVyMTQzNjkzMzEw._V1_SX300.jpg",
+      "favourite": false
+    },
+    {
+      "id": 2,
+      "title": "Bahubali 2",
+      "posterPath": "https://m.media-amazon.com/images/M/MV5BOGNlNmRkMjctNDgxMC00NzFhLWIzY2YtZDk3ZDE0NWZhZDBlXkEyXkFqcGdeQXVyODIwMDI1NjM@._V1_SX300.jpg",
+      "favourite": true
+    },
+    {
+      "id": 3,
+      "title": "Baby",
+      "posterPath": "https://m.media-amazon.com/images/M/MV5BYTdhNjBjZDctYTlkYy00ZGIxLWFjYTktODk5ZjNlMzI4NjI3XkEyXkFqcGdeQXVyMjY1MjkzMjE@._V1_SX300.jpg",
+      "favourite": true
+    }
+  ],
+  "favourites": [
+    {
+      "id": 2,
+      "title": "Bahubali 2",
+      "posterPath": "https://m.media-amazon.com/images/M/MV5BOGNlNmRkMjctNDgxMC00NzFhLWIzY2YtZDk3ZDE0NWZhZDBlXkEyXkFqcGdeQXVyODIwMDI1NjM@._V1_SX300.jpg",
+      "favourite": true
+    },
+    {
+      "id": 1,
+      "title": "K.G.F",
+      "posterPath": "https://m.media-amazon.com/images/M/MV5BMjMwMDgyOGQtMWZjNC00MDUwLTllZDYtZWM3NDBmN2YzNGZmXkEyXkFqcGdeQXVyMTQzNjkzMzEw._V1_SX300.jpg",
+      "favourite": false
+    }
+  ]
+}
